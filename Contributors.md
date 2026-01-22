@@ -770,6 +770,7 @@ SILVIO
 - [Pablo Edu Díaz](https://github.com/Exudev)
 - [Paige Li](https://github.com/itspaigenli)
 - [PONTHUS Abderrahman](https://github.com/S3869)
+- [crabsThatPrintMoney](https://github.com/crabsThatPrintMoney1)
 - [Pavan kuppili](https://github.com/PavanKuppili)
 - [Pavani](https://github.com/pavani42)
 - [Pedro Chame](https://github.com/pedrochame)
